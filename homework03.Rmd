@@ -51,3 +51,14 @@ final=as.table(data)
 final
 ```
 
+```{r}
+Aus <- life[life$country == "Australia", ]
+Aus
+```
+
+```{r}
+library(ggplot2)
+Aus
+ ggplot(life5060, aes(x = gdpPercap, y = lifeExp)) + geom_line()
+
+```
