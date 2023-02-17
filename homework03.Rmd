@@ -69,5 +69,3 @@ Note: your submission is supposed to be fully reproducible, i.e. the TA and I wi
 For the submission: submit your solution in an **R Markdown file** and (just for insurance) submit the corresponding html (or Word) file with it. 
 
 
-
-
